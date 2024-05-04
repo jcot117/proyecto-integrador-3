@@ -1,0 +1,7 @@
+package model;
+
+public enum mayoresProblemas{
+	
+	FALTA_DE_HOSPITAL, FALTA_DE_ESCUELA, FALTA_DE_AGUA_POTABLE, FALTA_DE_ACCESO_A_ALIMENTACION_BASICA;
+	
+}
